@@ -1,0 +1,32 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\с++\\opengl-cornell-box\\opengl-cornell-box\\main.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\auxiliary\\vs\\include\\gl\\glut.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\um\\gl\\gl.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\shared\\winapifamily.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\shared\\winpackagefamily.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\um\\gl\\glu.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\math.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_math.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\vcruntime.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\sal.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\concurrencysal.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\vadefs.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\stdio.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_stdio_config.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\stdlib.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_malloc.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_search.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\stddef.h",
+            "d:\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_wstdlib.h",
+            "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\limits.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
